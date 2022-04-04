@@ -1,4 +1,4 @@
-# Password-Manager
+# Password Manager
 * An offline password manager made in python using the Tkinter module.
 * Provides functionality for both adding of new credentials and searching for existing credentials.
 * The data is stored in a json file on your local machine.
