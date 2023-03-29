@@ -6,5 +6,5 @@
 
 ### Standalone executable for Mac and Windows coming soon . . .
 
-## First Look
+## GUI
 <img src="https://i.imgur.com/fs0KPmF.png" width=500 alt="password manager screenshot">
